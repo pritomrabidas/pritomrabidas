@@ -1,3 +1,4 @@
+<h2 align="center" class="heading-element" > Hi there 👋</h2>
 <h1 align="center" class="heading-element" dir="auto"> HI </h1>
 <h3 align="center">Frontend Developer from Bangladesh</h3>
 
