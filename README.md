@@ -1,5 +1,5 @@
 <h2 align="start" class="heading-element"  dir="auto"> Hi there 👋</h2>
-<h1 align="start" class="heading-element" dir="auto"> This is Pritom Rabidas </> </h1>
+<h1 align="start" class="heading-element" dir="auto"> This is Pritom Rabi Das </> </h1>
 <h3 align="">Frontend Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritomrabidas&label=Profile%20views&color=0e75b6&style=flat" alt="pritomrabidas" /> </p>
