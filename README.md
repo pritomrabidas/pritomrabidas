@@ -1,6 +1,6 @@
-<h2 align="center" class="heading-element" > Hi there 👋</h2>
-<h1 align="center" class="heading-element" dir="auto"> HI </h1>
-<h3 align="center">Frontend Developer from Bangladesh</h3>
+<h2 align="start" class="heading-element"  dir="auto"> Hi there 👋</h2>
+<h1 align="start" class="heading-element" dir="auto"> This is Pritom Rabidas </h1>
+<h3 align="">Frontend Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritomrabidas&label=Profile%20views&color=0e75b6&style=flat" alt="pritomrabidas" /> </p>
 
