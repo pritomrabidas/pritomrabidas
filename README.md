@@ -1,12 +1,12 @@
 <h2 align="start" class="heading-element"  dir="auto"> Hi there 👋</h2>
 <h1 align="start" class="heading-element" dir="auto"> This is Pritom Rabi Das </> </h1>
-<h3 align="">Frontend Developer from Bangladesh</h3>
+<h3 align="">Full Stack Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritomrabidas&label=Profile%20views&color=0e75b6&style=flat" alt="pritomrabidas" /> </p>
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Frontend learning process**
+- 💬 Ask me about **Frontend & backend learning process**
 
 - 📫 How to reach me **pritomrabidas102@gmail.com**
 
