@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React** & **Django**
 
-- 💬 Ask me about **Frontend & backend learning process**
+- 💬 Ask me about **Front-End & Back-End learning process**
 
 - 📫 How to reach me **pritomrabidas102@gmail.com**
 
