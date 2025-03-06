@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritomrabidas&label=Profile%20views&color=0e75b6&style=flat" alt="pritomrabidas" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** & **Django**
 
 - 💬 Ask me about **Frontend & backend learning process**
 
